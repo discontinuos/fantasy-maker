@@ -1,4 +1,4 @@
-# FANTASY MAKER
+# Fantasy Maker
 
 Este script permite evaluar el procedimiento publicado en <> para la generación de identificadores ficticios a partir de un identificadores numérico de nueve dígitos. No debe utilizarse para generar listados en los que sea de interés mantener protegida la confidencialidad de la información, debido a que el procedimiento es fácilmente reversible.
 
