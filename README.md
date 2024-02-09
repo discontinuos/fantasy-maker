@@ -1,6 +1,8 @@
 # Fantasy Maker
 
-Este script permite evaluar el procedimiento publicado en <> para la generación de identificadores ficticios a partir de un identificadores numérico de nueve dígitos. No debe utilizarse para generar listados en los que sea de interés mantener protegida la confidencialidad de la información, debido a que el procedimiento es fácilmente reversible.
+Este script permite replicar el procedimiento publicado en <> para la generación de identificadores ficticios (de fantasía) a partir de un identificadores de nueve dígitos.
+
+No debe utilizarse para generar listados en los que sea de interés mantener protegida la confidencialidad de la información, debido a que el procedimiento es fácilmente reversible.
 
 ## Datos
 
@@ -14,7 +16,7 @@ Para ejecutarlo, indicar:
 
 > python3 fantasy-maker.py
 
-Para utilizar diferentes archivos de entrada, editar las líneas finales del script fantasy-maker.py.
+Para utilizar diferentes archivos de entrada, editar las líneas finales del script fantasy-maker.py. El script espera archivos csv que contengan una columna 'cueanexo' de nueve dígitos, y produce un archivo de salida donde a las columnas existentes en el archivo de entrada agrega una columna adicional llamada 'id' con el identificador de fantasía de 15 dígitos.
 
 ## Propósito
 
