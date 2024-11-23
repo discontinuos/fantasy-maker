@@ -1,6 +1,6 @@
 # Fantasy Maker
 
-Este script permite replicar el procedimiento publicado en la Revista de la Escuela de Educación de Rosario (De Grande, 2017) para la generación de identificadores ficticios (de fantasía) a partir de un identificadores de nueve dígitos.
+Este script permite replicar el procedimiento publicado en la Revista de la Escuela de Educación de Rosario (De Grande, 2017) para la generación de identificadores ficticios (de fantasía) a partir de identificadores de nueve dígitos (código único de establecimientos) de Argentina.
 
 No debe utilizarse para generar listados en los que sea de interés mantener protegida la confidencialidad de la información, debido a que el procedimiento es fácilmente reversible.
 
