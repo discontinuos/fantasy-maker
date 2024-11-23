@@ -1,6 +1,6 @@
 # Fantasy Maker
 
-Este script permite replicar el procedimiento publicado en <> para la generación de identificadores ficticios (de fantasía) a partir de un identificadores de nueve dígitos.
+Este script permite replicar el procedimiento publicado en la Revista de la Escuela de Educación de Rosario (De Grande, 2017) para la generación de identificadores ficticios (de fantasía) a partir de un identificadores de nueve dígitos.
 
 No debe utilizarse para generar listados en los que sea de interés mantener protegida la confidencialidad de la información, debido a que el procedimiento es fácilmente reversible.
 
@@ -25,3 +25,7 @@ Este script es parte de una publicación académica realizada para evaluar la fi
 ## Contacto
 
 Para consultas o comentarios, escribir a Pablo De Grande (pablodg@gmail.com).
+
+## Referencias
+
+De Grande, P. (2017) (en prensa). PROBLEMÁTICAS EN LA DIFUSIÓN DE DATOS EDUCATIVO EL TRATAMIENTO DE SU CONFIDENCIALIDAD EN ARGENTINA, Revista de la Escuela de Educación de Rosario.
