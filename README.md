@@ -1,6 +1,6 @@
 # Fantasy Maker
 
-Este script permite replicar el procedimiento publicado en la Revista de la Escuela de Educación de Rosario (De Grande, 2017) para la generación de identificadores ficticios (de fantasía) a partir de identificadores de nueve dígitos (código único de establecimientos) de Argentina.
+Este script permite replicar el procedimiento publicado en la Revista de la Escuela de Educación de Rosario (De Grande, 2025) para la generación de identificadores ficticios (de fantasía) a partir de identificadores de nueve dígitos (código único de establecimientos) de Argentina.
 
 No debe utilizarse para generar listados en los que sea de interés mantener protegida la confidencialidad de la información, debido a que el procedimiento es fácilmente reversible.
 
@@ -28,4 +28,4 @@ Para consultas o comentarios, escribir a Pablo De Grande (pablodg@gmail.com).
 
 ## Referencias
 
-De Grande, P. (2017) (en prensa). PROBLEMÁTICAS EN LA DIFUSIÓN DE DATOS EDUCATIVO EL TRATAMIENTO DE SU CONFIDENCIALIDAD EN ARGENTINA, Revista de la Escuela de Educación de Rosario.
+De Grande, Pablo (2025). Problemáticas en la difusión de datos educativos. El tratamiento de su confidencialidad en Argentina. e-ISSN: 2362-3349 - Revista de la Escuela de Ciencias de la Educación, 20 (1), 100-117 [https://revistacseducacion.unr.edu.ar/index.php/educacion/article/view/865]
